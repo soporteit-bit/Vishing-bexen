@@ -1331,5 +1331,4 @@ const VishingSimulator = () => {
     </div>
   );
 };
-
 export default VishingSimulator;
